@@ -14,7 +14,7 @@ Hackintosh on HP ProBook 440 G7 with OpenCore
 | Hard Disk | Mobile Hard Disk（Lenovo PSSD ZX1 512G) |
 | Integrated Graphics | Intel UHD Graphics 630|
 | Sound Card | Realtek ALC236 (layout-id: 13) |
-| Wireless Card | Intel Wireless-AC 8265 |
+| Wireless Card | Intel Wireless-AC 9560 |
 | Wired Network Card|Realtek RTL8168H/8111H |
 
 ## macOS Version Supported:
