@@ -1,5 +1,6 @@
 # HP-ProBook-440-G7-Hackintosh(HP ZHAN66)
-Hackintosh on HP ProBook 440 G7 with OpenCore
+Hackintosh on HP ProBook 440 G7 with OpenCore.
+
 In fact, there is not much difference between ZHAN66 and ProBook, so you should be able to use it on ZHAN as well
 
 **If there is no special reason, I may not update this warehouse project.** 
